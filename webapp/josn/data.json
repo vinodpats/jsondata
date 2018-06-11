@@ -1,0 +1,29 @@
+{
+	"Products" :[
+		{
+
+		"Manufacturer": "Microsoft",
+		"Type": "Windows Phone",
+		"Price": 300,
+		"Version": "10.0"
+
+	}, {
+
+		"Manufacturer": "Apple",
+		"Type": "iPhone",
+		"Price": 900,
+		"Version": "9.3.1"
+
+	},
+
+	{
+
+		"Manufacturer": "Google",
+		"Type": "Nexus",
+		"Price": 600,
+		"Version": "7.0"
+
+	}
+
+]
+}
